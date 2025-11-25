@@ -18,3 +18,8 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
+
+- task: PublishCodeCoverageResults@2
+  inputs:
+    summaryFileLocation: "$(System.DefaultWorkingDirectory)/**/site/jacoco/jacoco.xml" # Path to summary files
+    failIfCoverageEmpty: true # Fail if code coverage results are missing
