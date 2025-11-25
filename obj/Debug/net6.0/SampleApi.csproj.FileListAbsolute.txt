@@ -1,0 +1,6 @@
+C:\Users\Madhukar Chebrolu\source\repos\SampleApi\obj\Debug\net6.0\SampleApi.csproj.AssemblyReference.cache
+C:\Users\Madhukar Chebrolu\source\repos\SampleApi\obj\Debug\net6.0\SampleApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhukar Chebrolu\source\repos\SampleApi\obj\Debug\net6.0\SampleApi.AssemblyInfoInputs.cache
+C:\Users\Madhukar Chebrolu\source\repos\SampleApi\obj\Debug\net6.0\SampleApi.AssemblyInfo.cs
+C:\Users\Madhukar Chebrolu\source\repos\SampleApi\obj\Debug\net6.0\SampleApi.csproj.CoreCompileInputs.cache
+C:\Users\Madhukar Chebrolu\source\repos\SampleApi\obj\Debug\net6.0\SampleApi.MvcApplicationPartsAssemblyInfo.cache
